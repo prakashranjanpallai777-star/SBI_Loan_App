@@ -12,6 +12,7 @@ public class AppTest {
     /**
      * Rigorous Test :-)
      */
+    int p = 20;
     @Test
     public void shouldAnswerWithTrue() {
         assertTrue(true);
