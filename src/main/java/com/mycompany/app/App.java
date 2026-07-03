@@ -6,7 +6,11 @@ package com.mycompany.app;
 public class App {
     public static void main(String[] args) {
 
+
 		int l = 30;
+
+		String w = "good morning";
+
 
         String s = "hii";
 
