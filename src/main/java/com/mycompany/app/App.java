@@ -10,10 +10,7 @@ public class App {
 
         String s = "hii";
 
-		//bug-201
-		static{
-			System.out.println("hii");
-		}
+
 
         System.out.println("Hello World!");
 
